@@ -1,0 +1,7 @@
+<?xml version="1.0">
+<outertag>
+    <innertag sampleattribute = "innertagAttribute">
+        <mytag>gota.com.cn</mytag>
+        <tagwithnumber thenumber="20210830"/>
+    </innertag>
+</outertag>
